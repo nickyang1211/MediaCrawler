@@ -235,8 +235,8 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/fruitswordman">
-                    <img src="https://avatars.githubusercontent.com/u/103844614?v=4" width="100;" alt="fruitswordman"/>
+                <a href="https://github.com/WenboLuu">
+                    <img src="https://avatars.githubusercontent.com/u/103844614?v=4" width="100;" alt="WenboLuu"/>
                     <br />
                     <sub><b>Wenbo Lu</b></sub>
                 </a>
